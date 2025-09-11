@@ -1,0 +1,10 @@
+D:\STUDY\DotNet\BUOITH2\BUOITH2\bin\Debug\BUOITH2.exe.config
+D:\STUDY\DotNet\BUOITH2\BUOITH2\bin\Debug\BUOITH2.exe
+D:\STUDY\DotNet\BUOITH2\BUOITH2\bin\Debug\BUOITH2.pdb
+D:\STUDY\DotNet\BUOITH2\BUOITH2\obj\Debug\BUOITH2.csproj.AssemblyReference.cache
+D:\STUDY\DotNet\BUOITH2\BUOITH2\obj\Debug\BUOITH2.Form1.resources
+D:\STUDY\DotNet\BUOITH2\BUOITH2\obj\Debug\BUOITH2.Properties.Resources.resources
+D:\STUDY\DotNet\BUOITH2\BUOITH2\obj\Debug\BUOITH2.csproj.GenerateResource.cache
+D:\STUDY\DotNet\BUOITH2\BUOITH2\obj\Debug\BUOITH2.csproj.CoreCompileInputs.cache
+D:\STUDY\DotNet\BUOITH2\BUOITH2\obj\Debug\BUOITH2.exe
+D:\STUDY\DotNet\BUOITH2\BUOITH2\obj\Debug\BUOITH2.pdb
